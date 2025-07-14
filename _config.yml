@@ -24,23 +24,23 @@ author:
   # Biographic information
   avatar: "profile_pic.jpg"
   name: "Shrishjay Acharya"
-  pronouns: "He"
+  #pronouns: "He"
   bio: "An aspiring Data Analyst"
   location: "Kolkata, West Bengal, India"
-  employer: "Swami Vivekananda Institute of Science and Technology"
+  employer: "SVIST"
   uri: # URL
   email: "shrishjay2004@gmail.com"
 
   # Academic websites
-  academia: # URL
-  arxiv: # URL - Update with the correct link to your profile
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory: # URL
-  orcid: "http://orcid.org/yourorcidurl"
-  semantic: # URL
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate: # URL
-  scopus: # URL
+  # academia: # URL
+  # arxiv: # URL - Update with the correct link to your profile
+  # googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # impactstory: # URL
+  # orcid: "http://orcid.org/yourorcidurl"
+  # semantic: # URL
+  # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate: # URL
+  # scopus: # URL
 
   # Repositories and software development
   bitbucket: # Username - Update with your username on the site
@@ -51,14 +51,14 @@ author:
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky: "shrishjay.bsky.social" # Replace this with you Bluesky username
+  #bluesky: "shrishjay.bsky.social" # Replace this with you Bluesky username
   artstation: # Username
   flickr: # Username
   foursquare: # Username
   goodreads: # Username
   google_plus: # Username
   keybase: # Username
-  instagram: "the_fenomeno_466"
+  #instagram: "the_fenomeno_466"
   lastfm: # Username
   linkedin: "shrishjay-acharya-bbaba3266"
   mastodon: "@shrishjay"
@@ -66,7 +66,7 @@ author:
   pinterest: # Username
   soundcloud: # Username
   steam: # Username
-  telegram: "shrishjay"
+  #telegram: "shrishjay"
   tumblr: # Username
   twitter: # Username for X / Twitter
   vine: # Username
