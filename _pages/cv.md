@@ -44,24 +44,6 @@ redirect_from:
   - Others - Pandas, numpy, streamlit, Django (basic)
 - Skill 3
 
- <!-- # Publications
+# Publications
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams --!>
+- ["A Brief Review on Applications of AI in Herpetology"](https://journal-innovations.com/assets/uploads/doc/372ad-245-257.11985.pdf)
