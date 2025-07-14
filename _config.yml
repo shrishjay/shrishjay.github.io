@@ -51,7 +51,12 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+<<<<<<< HEAD
   bluesky          : "shrishjay.bsky.social" # Replace this with you Bluesky username
+=======
+  artstation       : # Username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
+>>>>>>> 9b33e6ef12c9d8d8fab8cb5d9e4a36302a2f3cfa
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
