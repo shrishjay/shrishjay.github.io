@@ -15,7 +15,7 @@ redirect_from:
 - Higher Secondary from Nava Nalanda High School, 2022
 - Secondary from Nava Nalanda High School, 2020
 
- <!-- #Work experience
+<!-- # Work experience
 
 - Spring 2024: Academic Pages Collaborator
 
@@ -32,7 +32,7 @@ redirect_from:
 - Summer 2015: Research Assistant
   - GitHub University
   - Duties included: Tagging issues
-  - Supervisor: Professor Git --!>
+  - Supervisor: Professor Git -->
 
 # Skills
 
