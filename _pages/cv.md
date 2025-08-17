@@ -9,56 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- B.Tech in Computer Science and Engineering, Swami Vivekananda Institute of Technology, 2026
+- Higher Secondary from Nava Nalanda High School, 2022
+- Secondary from Nava Nalanda High School, 2020
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<!-- # Work experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Spring 2024: Academic Pages Collaborator
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  - GitHub University
+  - Duties includes: Updates and improvements to template
+  - Supervisor: The Users
+
+- Fall 2015: Research Assistant
+
+  - GitHub University
+  - Duties included: Merging pull requests
+  - Supervisor: Professor Hub
+
+- Summer 2015: Research Assistant
+  - GitHub University
+  - Duties included: Tagging issues
+  - Supervisor: Professor Git -->
+
+# Skills
+
+- Programming Languages - Python, MySQL, R
+- Tools and Framework
+  - Data Visualization - PowerBI, Microsoft Excel, Matplotlib, Seaborn
+  - Deep Learning - Tensorflow, Keras
+  - Machine Learning - sklearn
+  - Others - Pandas, numpy, streamlit, Django (basic)
+- Skill 3
+
+# Publications
+
+- ["A Brief Review on Applications of AI in Herpetology"](https://journal-innovations.com/assets/uploads/doc/372ad-245-257.11985.pdf)
